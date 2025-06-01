@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
-    "module": "NodeNext",
+    "module": "Preserve",
     "target": "ESNext",
     "isolatedModules": true,
+    "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "jsx": "preserve",
     "jsxImportSource": "solid-js",

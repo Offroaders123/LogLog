@@ -1,4 +1,3 @@
-// @ts-expect-error - NodeNext JSON resolution seems to be a bit weird, in the context of using Vite.
 import { version as VERSION } from "../../package.json";
 
 declare var self: ServiceWorkerGlobalScope;
