@@ -9,4 +9,4 @@ if (window.isSecureContext && !import.meta.env.DEV) {
 
 const root: HTMLDivElement = document.querySelector("#root")!;
 
-render(() => <App/>, root);
+render(() => <App />, root);
